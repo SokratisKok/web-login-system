@@ -10,9 +10,9 @@ Pages:
 - Forgot password
 - Delete account message
 
-Style is created with SASS and is very basic but flexible to changes after all.
-
+Info and Settings:
 - For database credential modify /login-system/config.php
 - All the functionality of the submit buttons is written in /login-system/functions.php
 - Modify the paths in various files to redict the user in your preferred page.
 
+* Style is created with SASS and is very basic but flexible to changes after all.
